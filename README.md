@@ -13,8 +13,8 @@ This project serves as a comprehensive library of competitive programming soluti
 - Sorting and Searching Algorithms
 
 ## Language
-My preferred language for solving algorithmic problems is C, as it is versatile and gives me a deeper understanding of data structures.
+My preferred language for solving algorithmic problems is C++, as it is versatile and gives me a deeper understanding of data structures.
 
 ## How to Compile and Run
 
-To test or review any of the solutions on your local machine, you will need a C compiler (such as GCC) installed and preferably a modern IDE for ease of use, such as VS Code.
+To test or review any of the solutions on your local machine, you will need a C/C++ compiler (such as GCC) installed and preferably a modern IDE for ease of use, such as VS Code.
